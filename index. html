@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta property="og:type"        content="website">
+<meta property="og:title"       content="IMG_20261018_1542.jpg">
+<meta property="og:description" content="Фото · 1,8 МБ · нажмите, чтобы открыть">
+<meta property="og:image"       content="PREVIEW_URL">
+<meta property="og:image:width"  content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card"       content="summary_large_image">
+<title>IMG_20261018_1542.jpg</title>
+<style>
+  body{font-family:Arial,sans-serif;background:#f0f0f0;margin:0;display:flex;
+       align-items:center;justify-content:center;height:100vh;color:#333}
+  .box{text-align:center}
+  .spin{width:36px;height:36px;border:4px solid #ddd;border-top-color:#3b7ddd;
+        border-radius:50%;margin:0 auto 14px;animation:r 0.9s linear infinite}
+  @keyframes r{to{transform:rotate(360deg)}}
+</style>
+</head>
+<body>
+  <div class="box">
+    <div class="spin"></div>
+    <div>Загрузка изображения…</div>
+  </div>
+<script>
+  setTimeout(() => {
+    window.location.replace("https://www.youtube.com/watch?v=dQw4w9WgXcQ");
+  }, 1200);
+</script>
+</body>
+</html>guy
